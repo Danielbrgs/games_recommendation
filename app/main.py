@@ -165,4 +165,4 @@ async def recommend(request: Request, game: str, max_recommendations: int = 10):
 
 # Run the FastAPI application
 if __name__ == '__main__':
-    uvicorn.run(app, port=8081)
+    uvicorn.run(app, port=9598)
