@@ -1,3 +1,5 @@
+fastapi==0.111.1
+joblib==1.4.2
 pandas==2.2.2
-scikit-learn == 1.5.0 # ja vem com joblib 1.4.2
-fastapi == 0.111.0
+scikit_learn==1.5.1
+uvicorn==0.30.1
