@@ -63,9 +63,6 @@ Each recommendation list displays 10 similar games, and each recommended game ca
 ### Recommendation System Explanation
 The recommendation system utilizes collaborative filtering to identify similar games based on user interactions. It calculates implicit ratings for each game based on the time spent playing and generates an item similarity matrix. When a user inputs a game name, the system retrieves the corresponding game's similarity vector from the matrix and recommends the 10 most similar games.
 
-### Additional Notes
-The app is available online at [Streamlit](https://gamesrecommendation-av2xfxe2qhi9r7rlorik3w.streamlit.app)
-
 **Para saber mais:**
 
 * [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/daniel-braga-reis-725aa012a/)
